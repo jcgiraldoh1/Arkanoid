@@ -1,0 +1,93 @@
+﻿  BallEntity.cpp
+  AngelcodeFont.cpp
+  BFont.cpp
+  Blit3D.cpp
+  ByteSwap.cpp
+  glslprogram.cpp
+  glutils.cpp
+  Logger.cpp
+  RenderBuffer.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  BrickEntity.cpp
+  Entity.cpp
+  main.cpp
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(7,59): warning C4305: 'argumento': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(8,80): warning C4305: 'argumento': truncamiento de 'double' a '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(117,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(129,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(130,27): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(131,19): warning C4244: '=': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(136,23): warning C4244: '+=': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(137,23): warning C4244: '+=': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Camera.h(138,23): warning C4244: '+=': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(125,2): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(134,2): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(145,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(157,14): warning C4101: 'brickColour': variable local sin referencia
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(229,52): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(233,53): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(412,2): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(477,4): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(647,10): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\main.cpp(671,10): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MyContactListener.cpp
+  PaddleEntity.cpp
+  Particle.cpp
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Particle.cpp(66,38): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Particle.cpp(67,86): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Physics.cpp
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(5,27): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(5,19): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(12,18): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(17,14): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(22,19): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(27,11): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Physics.cpp(32,11): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  PowerUpEntity.cpp
+  Generando código...
+  glew.c
+  context.c
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Blit3DBaseFiles\GLFW\context.c(377,10): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(68,5): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\Blit3Dv3\Blit3DBaseFiles\GLFW\win32_monitor.c(77,9): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  window.c
+  Generando código...
+  Blit3Dv3.vcxproj -> C:\Users\juanl\Documents\NBCC\2D Advance\Arkanoid - Juan Giraldo\x64\Debug\Blit3Dv3.exe
